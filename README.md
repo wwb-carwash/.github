@@ -1,2 +1,2 @@
-# wwb-carwash GmbH & Co. KG
-Official GitHub organization profile of the wwb-carwash GmbH & Co. KG.
+# wwb-carwash GitHub settings repository
+used to change the public readme file fo the wwb-carwash organization.
